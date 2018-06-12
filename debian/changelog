@@ -1,0 +1,28 @@
+ukui-indicators (1.1.1-1) unstable; urgency=medium
+
+  * Fix in Live session,"time & date" in indicator cannot be opened.
+  * Fix the wrong position problem after resize panel.
+  * Remove the useless print message.
+  * Adjust the style of calendar.
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Sun, 01 Apr 2018 15:23:50 +0800
+
+ukui-indicators (1.1.0-1) unstable; urgency=medium
+
+  * Update for ukui-panel.
+  * Add gsettings for applet.
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Tue, 27 Feb 2018 10:12:19 +0800
+
+ukui-indicators (1.0.3-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Fix wrong application icon size in indicators.
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Mon, 26 Jun 2017 16:11:48 +0800
+
+ukui-indicators (1.0.3-1) unstable; urgency=medium
+
+  * Initial release (Closes: #872966)
+
+ -- Aron Xu <aron@debian.org>  Sat, 26 Aug 2017 16:11:48 +0800
