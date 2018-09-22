@@ -1,3 +1,9 @@
+ukui-indicators (1.1.2-1) unstable; urgency=medium
+
+  * Add the support to show disk status.
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Sat, 22 Sep 2018 18:33:05 +0800
+
 ukui-indicators (1.1.1-1) unstable; urgency=medium
 
   * Fix in Live session,"time & date" in indicator cannot be opened.
